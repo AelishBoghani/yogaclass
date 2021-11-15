@@ -7,3 +7,5 @@ How to use :
 1. Fill the Admissiom Form 
 2. Pay the Fees before Deadline
 3. Enjoy the class
+
+Link : https://yogaclass1.herokuapp.com/
